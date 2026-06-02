@@ -205,7 +205,7 @@ me = Developer()
 * 📧 [roshin.rg.2024.aids@rajalakshmi.edu.in](mailto:roshin.rg.2024.aids@rajalakshmi.edu.in)
 * 💼 LinkedIn: Add URL
 * 🌐 Portfolio: Add URL
-* 🐙 GitHub: https://github.com/YOUR_USERNAME
+* 🐙 GitHub: https://github.com/RoshinRG
 
 ---
 
